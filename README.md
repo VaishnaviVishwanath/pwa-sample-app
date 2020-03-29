@@ -1,6 +1,7 @@
 # Sample nodejs application with docker Conatiner
 # Running the application locally
   npm install
+
   node server.js
 # Building docker image
     docker build -t nodejs-pwa-app:latest
